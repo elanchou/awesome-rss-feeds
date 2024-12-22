@@ -1,0 +1,301 @@
+{
+    "countries": [
+        {
+            "country": "Australia",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Australia.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Australia.opml"
+        },
+        {
+            "country": "Bangladesh",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Bangladesh.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Bangladesh.opml"
+        },
+        {
+            "country": "Brazil",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Brazil.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Brazil.opml"
+        },
+        {
+            "country": "Canada",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Canada.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Canada.opml"
+        },
+        {
+            "country": "Germany",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Germany.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Germany.opml"
+        },
+        {
+            "country": "Spain",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Spain.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Spain.opml"
+        },
+        {
+            "country": "France",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/France.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/France.opml"
+        },
+        {
+            "country": "United Kingdom",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/United%20Kingdom.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/United%20Kingdom.opml"
+        },
+        {
+            "country": "Hong Kong SAR China",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Hong%20Kong%20SAR%20China.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Hong%20Kong%20SAR%20China.opml"
+        },
+        {
+            "country": "Indonesia",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Indonesia.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Indonesia.opml"
+        },
+        {
+            "country": "Ireland",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Ireland.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Ireland.opml"
+        },
+        {
+            "country": "India",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/India.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/India.opml"
+        },
+        {
+            "country": "Iran",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Iran.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Iran.opml"
+        },
+        {
+            "country": "Italy",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Italy.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Italy.opml"
+        },
+        {
+            "country": "Japan",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Japan.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Japan.opml"
+        },
+        {
+            "country": "Myanmar",
+            "with_category": "Burma).opml",
+            "without_category": "Burma).opml"
+        },
+        {
+            "country": "Mexico",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Mexico.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Mexico.opml"
+        },
+        {
+            "country": "Nigeria",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Nigeria.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Nigeria.opml"
+        },
+        {
+            "country": "Philippines",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Philippines.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Philippines.opml"
+        },
+        {
+            "country": "Pakistan",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Pakistan.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Pakistan.opml"
+        },
+        {
+            "country": "Poland",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Poland.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Poland.opml"
+        },
+        {
+            "country": "Russia",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Russia.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Russia.opml"
+        },
+        {
+            "country": "Ukraine",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/Ukraine.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/Ukraine.opml"
+        },
+        {
+            "country": "United States",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/United%20States.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/United%20States.opml"
+        },
+        {
+            "country": "South Africa",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/with_category/South%20Africa.opml",
+            "without_category":"https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/countries/without_category/South%20Africa.opml"
+        }
+    ],
+    "Categories": [
+        {
+            "category": "Android",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Android.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Android.opml"
+        },
+        {
+            "category": "Android Development",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Android Development.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Android Development.opml"
+        },
+        {
+            "category": "Apple",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Apple.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Apple.opml"
+        },
+        {
+            "category": "Architecture",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Architecture.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Architecture.opml"
+        },
+        {
+            "category": "Beauty",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Beauty.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Beauty.opml"
+        },
+        {
+            "category": "Books",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Books.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Books.opml"
+        },
+        {
+            "category": "Business & Economy",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Business & Economy.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Business & Economy.opml"
+        },
+        {
+            "category": "Cars",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Cars.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Cars.opml"
+        },
+        {
+            "category": "Cricket",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Cricket.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Cricket.opml"
+        },
+        {
+            "category": "Interior design",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Interior design.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Interior design.opml"
+        },
+        {
+            "category": "DIY",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/DIY.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/DIY.opml"
+        },
+        {
+            "category": "Fashion",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Fashion.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Fashion.opml"
+        },
+        {
+            "category": "Food",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Food.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Food.opml"
+        },
+        {
+            "category": "Football",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Football.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Football.opml"
+        },
+        {
+            "category": "Funny",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Funny.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Funny.opml"
+        },
+        {
+            "category": "Gaming",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Gaming.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Gaming.opml"
+        },
+        {
+            "category": "History",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/History.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/History.opml"
+        },
+        {
+            "category": "iOS Development",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/iOS Development.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/iOS Development.opml"
+        },
+        {
+            "category": "Movies",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Movies.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Movies.opml"
+        },
+        {
+            "category": "Music",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Music.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Music.opml"
+        },
+        {
+            "category": "News",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/News.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/News.opml"
+        },
+        {
+            "category": "Personal finance",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Personal finance.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Personal finance.opml"
+        },
+        {
+            "category": "Photography",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Photography.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Photography.opml"
+        },
+        {
+            "category": "Programming",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Programming.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Programming.opml"
+        },
+        {
+            "category": "Science",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Science.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Science.opml"
+        },
+        {
+            "category": "Space",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Space.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Space.opml"
+        },
+        {
+            "category": "Sports",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Sports.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Sports.opml"
+        },
+        {
+            "category": "Startups",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Startups.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Startups.opml"
+        },
+        {
+            "category": "Tech",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Tech.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Tech.opml"
+        },
+        {
+            "category": "Television",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Television.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Television.opml"
+        },
+        {
+            "category": "Tennis",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Tennis.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Tennis.opml"
+        },
+        {
+            "category": "Travel",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Travel.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Travel.opml"
+        },
+        {
+            "category": "UI/UX",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/UI%20-%20UX.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/UI%20-%20UX.opml"
+        },
+        {
+            "category": "Web Development",
+            "with_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/Web%20Development.opml",
+            "without_category": "https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/Web%20Development.opml"
+        }
+    ]
+}
